@@ -1,4 +1,4 @@
-# Café — Coffee, Food & Good Company
+# Cafe — Coffee, Food & Good Company
 
 A responsive, single-page café website concept built with plain HTML, CSS and JavaScript. It is a fictional portfolio project, designed to demonstrate front-end layout, responsive styling and small interactive details.
 
